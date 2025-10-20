@@ -1,4 +1,3 @@
-# HR analytics Dashboard
 # Employee Attrition Dashboard
 
 A Power BI dashboard analyzing employee turnover patterns to help HR identify key factors influencing attrition.
